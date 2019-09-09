@@ -1,0 +1,9 @@
+C:\Users\איציק\source\repos\B19 Ex03 Itsik 201016151 Zahi 204185490\Ex03.ConsoleUI\bin\Debug\Ex03.ConsoleUI.exe
+C:\Users\איציק\source\repos\B19 Ex03 Itsik 201016151 Zahi 204185490\Ex03.ConsoleUI\bin\Debug\Ex03.ConsoleUI.pdb
+C:\Users\איציק\source\repos\B19 Ex03 Itsik 201016151 Zahi 204185490\Ex03.ConsoleUI\bin\Debug\Ex03.GarageLogic.dll
+C:\Users\איציק\source\repos\B19 Ex03 Itsik 201016151 Zahi 204185490\Ex03.ConsoleUI\bin\Debug\Ex03.GarageLogic.pdb
+C:\Users\איציק\source\repos\B19 Ex03 Itsik 201016151 Zahi 204185490\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.csprojAssemblyReference.cache
+C:\Users\איציק\source\repos\B19 Ex03 Itsik 201016151 Zahi 204185490\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\איציק\source\repos\B19 Ex03 Itsik 201016151 Zahi 204185490\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.csproj.CopyComplete
+C:\Users\איציק\source\repos\B19 Ex03 Itsik 201016151 Zahi 204185490\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.exe
+C:\Users\איציק\source\repos\B19 Ex03 Itsik 201016151 Zahi 204185490\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.pdb

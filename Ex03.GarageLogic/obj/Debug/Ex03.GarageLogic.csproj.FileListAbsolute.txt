@@ -1,0 +1,6 @@
+C:\Users\איציק\source\repos\B19 Ex03 Itsik 201016151 Zahi 204185490\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.csprojAssemblyReference.cache
+C:\Users\איציק\source\repos\B19 Ex03 Itsik 201016151 Zahi 204185490\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.csproj.CoreCompileInputs.cache
+C:\Users\איציק\source\repos\B19 Ex03 Itsik 201016151 Zahi 204185490\Ex03.GarageLogic\bin\Debug\Ex03.GarageLogic.dll
+C:\Users\איציק\source\repos\B19 Ex03 Itsik 201016151 Zahi 204185490\Ex03.GarageLogic\bin\Debug\Ex03.GarageLogic.pdb
+C:\Users\איציק\source\repos\B19 Ex03 Itsik 201016151 Zahi 204185490\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.dll
+C:\Users\איציק\source\repos\B19 Ex03 Itsik 201016151 Zahi 204185490\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.pdb
